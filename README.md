@@ -1,9 +1,9 @@
 # Helsinki_Junction2023
 THE ZOLDYCKS TEAM Repo for THE JUNCTION HELSINKI 2023 HACKATHON, Huawei Challenge (Sense The Motion)
 
-Youtube video for Z APP Project : https://www.canva.com/design/DAFz2Cd-JpQ/Koq84SeVl9qAhdDssb8d7Q/view?utm_content=DAFz2Cd-JpQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+Youtube video for Z APP Project : https://clipchamp.com/watch/OtF8CMIhrZO
 
-Pitch Deck Presentation : https://www.canva.com/design/DAFz2Cd-JpQ/DsNIsG5HGFjuaxCW1ZmZXg/edit?utm_content=DAFz2Cd-JpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Pitch Deck Presentation : https://www.canva.com/design/DAFz2Cd-JpQ/Koq84SeVl9qAhdDssb8d7Q/view?utm_content=DAFz2Cd-JpQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Repo Code for Back End Services with Detailed Readme file: https://github.com/TheZoldycs/z-app-core
 
